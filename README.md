@@ -9,7 +9,7 @@
 > **SkyCast** is a sleek, responsive, and feature-rich weather application built with **Vanilla JavaScript** and **Tailwind CSS**. It provides real-time weather updates, 5-day forecasts, and a premium user experience using **Glassmorphism** design principles.
 
 ## 🚀 Live Demo
-[**View Live Demo**](#) <!-- Insert your GitHub Pages/Vercel link here -->
+[**View Live Demo**](#)(https://mohammad-farhan-shaikh.github.io/skycast-weather-app/)
 
 ---
 
@@ -40,13 +40,15 @@
 <!-- Add your screenshots here -->
 ### Desktop Dashboard View
 <div align="center">
-  <img src="https://via.placeholder.com/800x450?text=Desktop+Dashboard+View" alt="Desktop Dashboard View" width="100%" />
+  <img width="1907" height="869" alt="Desktop Dashboard View" src="https://github.com/user-attachments/assets/25477217-e972-4845-bf43-db10c23d54fe" />
 </div>
+
 
 ### Responsive Mobile View
 <div align="center">
-  <img src="https://via.placeholder.com/375x600?text=Mobile+View" alt="Responsive Mobile View" width="40%" />
+  <img width="294" height="660" alt="Responsive Mobile View" src="https://github.com/user-attachments/assets/7b61b979-be3c-4cad-8fb8-53b9787b4fd0" />
 </div>
+
 
 ---
 
