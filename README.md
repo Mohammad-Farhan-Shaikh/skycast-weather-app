@@ -95,14 +95,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author & Developer
 
 <div align="center">
 
 **Mohammad Farhan Shaikh**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Mohammad--Farhan--Shaikh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohammad-Farhan-Shaikh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-farhan-shaikh/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-farhan-shaikh70/) 
 <!-- *Note: Please update the LinkedIn URL above if your handle is different.* -->
 
 </div>
