@@ -1,5 +1,5 @@
 
-# 🌦️ SkyCast - Modern Weather Dashboard
+# 🌦️ SkyCast - Modern Weather App
 
 [![Made with TailwindCSS](https://img.shields.io/badge/Made%20with-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
